@@ -29,6 +29,6 @@ public class Main {
         // Output values to user
         System.out.println("Each person will pay $" + billPerPersonFormatted +
                 " for the bill and will tip $" +
-                tipPerPersonFormatted + "For a total of $" + totalPerPersonFormatted + " per person.");
+                tipPerPersonFormatted + " for a total of $" + totalPerPersonFormatted + " per person.");
     }
 }
